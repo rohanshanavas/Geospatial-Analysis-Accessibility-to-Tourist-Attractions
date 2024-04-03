@@ -38,6 +38,6 @@ Several queries were executed to extract insights into tourism accessibility:
 
 ### Additional Notes
 
-- Ensure that you have PostgreSQL and PgAdmin installed on your system to execute SQL queries and manage the database.
+- Ensure that you have PostgreSQL and pgAdmin installed on your system to execute SQL queries and manage the database.
 - QGIS is required to open and interact with the project file for spatial visualization and analysis.
 
