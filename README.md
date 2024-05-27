@@ -1,4 +1,4 @@
-# Spatial-Analysis-Public-Transport-Accessibility-to-Attractions-in-Ireland
+# Spatial Database Project: Public Transport Accessibility to Attractions in Ireland
 
 ## Overview
 
