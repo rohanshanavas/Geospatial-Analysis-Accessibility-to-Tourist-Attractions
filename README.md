@@ -1,4 +1,4 @@
-# Spatial Database Project: Public Transport Accessibility to Attractions in Ireland
+# Geospatial Analysis: Accessibility to Tourist Attractions
 
 ## Overview
 
